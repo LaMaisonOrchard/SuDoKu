@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"david"
+	],
+	"copyright": "Copyright © 2024, david",
+	"description": "Solve Sudoku",
+	"license": "GPL",
+	"name": "sudoku"
+}
